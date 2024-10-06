@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background-color: #f5f1fc;
   font-family: sans-serif;
 }
 
@@ -51,7 +51,7 @@ footer {
 
 .time {
   font-size: 48px;
-  font-weight: normal;
+  font-weight: 500;
 }
 
 .time small {
